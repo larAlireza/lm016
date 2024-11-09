@@ -1,4 +1,4 @@
-## Arduino Project with LM016L LCD Display
+# Arduino Project with LM016L LCD Display
 
 This project demonstrates the wiring and setup of an LM016L LCD display with an Arduino Uno. The schematic, created in Proteus, shows the connections required to interface the LCD with the Arduino, as well as a potentiometer to adjust the display contrast.
 
@@ -13,3 +13,4 @@ The LM016L is a 16x2 LCD, meaning it can display up to 16 characters per line ac
 Vcc and GND: Connect to the Arduino’s 5V and ground pins, respectively.
 RS, E, D4-D7: Connect these pins to the corresponding Arduino pins as shown in the schematic.
 Potentiometer: Adjusts the voltage on the Vo pin of the LCD, controlling contrast.
+![New Project - Proteus 8 Professional - Schematic Capture 11_9_2024 4_20_06 PM](https://github.com/user-attachments/assets/dfd93496-4025-49b0-82b1-1840041efec8)
