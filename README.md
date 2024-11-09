@@ -1,6 +1,6 @@
 ## Arduino Project with LM016L LCD Display
 
-# This project demonstrates the wiring and setup of an LM016L LCD display with an Arduino Uno. The schematic, created in Proteus, shows the connections required to interface the LCD with the Arduino, as well as a potentiometer to adjust the display contrast.
+This project demonstrates the wiring and setup of an LM016L LCD display with an Arduino Uno. The schematic, created in Proteus, shows the connections required to interface the LCD with the Arduino, as well as a potentiometer to adjust the display contrast.
 
 # Components
   Arduino Uno: Acts as the microcontroller to manage input and output.
